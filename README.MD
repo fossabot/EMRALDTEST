@@ -1,4 +1,6 @@
 # CODENAME ACRONYM
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fraesuarez%2FEMRALDTEST.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fraesuarez%2FEMRALDTEST?ref=badge_shield)
+
 Event Modeling Risk Assessment using Linked Diagrams (EMRALD) 
 
 Event Modeling Risk Assessment using Linked Diagrams (EMRALD) is a software tool developed at INL for researching the capabilities of dynamic PRA (Probabilistic Risk Assessment). In order to promote the effective use of dynamic PRA by the general community, EMRALD focuses on the following key aspects: 
@@ -111,3 +113,6 @@ Developers
 By contributing to this software project, you are agreeing to the following terms and conditions for your contributions:
 
 You agree your contributions are submitted under the Apache-2 license. You represent you are authorized to make the contributions and grant the license. If your employer has rights to intellectual property that includes your contributions, you represent that you have received permission to make contributions and grant the required license on behalf of that employer.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fraesuarez%2FEMRALDTEST.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fraesuarez%2FEMRALDTEST?ref=badge_large)
